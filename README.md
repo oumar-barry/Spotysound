@@ -22,5 +22,5 @@ Ce projet est un site permettant d'écouter de la musique comme sur spotify avec
 ![5](https://github.com/oumar-barry/Spotysound/assets/120862965/15d662ca-afcd-4bca-8983-64c55036856c)
 
 ## Demo du site sur [Spotysound](https://spotysound.barryprojects.com/register.php)
-* Username: test
+* Username: Testme
 * Password: 123456
